@@ -8,8 +8,8 @@ Now, the GUI part is what I'm more proud of. It didn't take long but it's one of
 
 
 ### Dependencies
-*Faker*
-*PySimpleGUI*
+* *Faker*
+* *PySimpleGUI*
 **To install:**
 ```bash
 pip3 install PySimpleGUI Faker
